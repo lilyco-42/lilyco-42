@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 200" font-family="system-ui,-apple-system,'PingFang SC','Microsoft YaHei',sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#081b1e"/><stop offset="1" stop-color="#164e63"/>
+    </linearGradient>
+    <linearGradient id="ac" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#06b6d4"/><stop offset="1" stop-color="#67e8f9"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="200" fill="url(#bg)"/>
+  <g opacity="0.65">
+    <rect x="468" y="52" width="112" height="96" rx="12" fill="#083344" stroke="#06b6d4"/>
+    <text x="524" y="92" font-size="26" font-weight="700" fill="#67e8f9" text-anchor="middle">人 ?</text>
+    <rect x="476" y="104" width="96" height="2" fill="#155e75"/>
+    <text x="524" y="136" font-size="26" font-weight="700" fill="#a5f3fc" text-anchor="middle">AI ?</text>
+  </g>
+  <rect x="0" y="0" width="6" height="200" fill="url(#ac)"/>
+  <rect x="36" y="46" height="34" rx="17" width="96" fill="rgba(6,182,212,.15)" stroke="#06b6d4"/>
+  <text x="84" y="69" font-size="15" fill="#a5f3fc" text-anchor="middle">在线玩</text>
+  <text x="36" y="126" font-size="38" font-weight="700" fill="#ecfeff">图灵测试游戏</text>
+  <text x="36" y="158" font-size="17" fill="#a5f3fc">匿名对话 10 分钟 · 分辨对方是人还是 AI · 免费注册即玩</text>
+</svg>

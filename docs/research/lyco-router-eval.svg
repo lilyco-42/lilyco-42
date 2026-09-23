@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 200" font-family="system-ui,-apple-system,'PingFang SC','Microsoft YaHei',sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1c1206"/><stop offset="1" stop-color="#78350f"/>
+    </linearGradient>
+    <linearGradient id="ac" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f59e0b"/><stop offset="1" stop-color="#fcd34d"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="200" fill="url(#bg)"/>
+  <text x="562" y="166" font-size="58" font-weight="700" fill="#f59e0b" opacity="0.20" text-anchor="end" font-family="Consolas,monospace">0.6B</text>
+  <rect x="0" y="0" width="6" height="200" fill="url(#ac)"/>
+  <rect x="36" y="46" height="34" rx="17" width="94" fill="#f59e0b" opacity="0.16" stroke="#f59e0b"/>
+  <text x="83" y="69" font-size="15" fill="#fcd34d" text-anchor="middle">端侧评测</text>
+  <text x="36" y="126" font-size="38" font-weight="700" fill="#f8fafc">lyco-router-eval</text>
+  <text x="36" y="158" font-size="17" fill="#fcd34d">0.6B 够不够？40+ 案例横评 + 三件套结论</text>
+</svg>

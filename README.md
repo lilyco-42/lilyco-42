@@ -21,14 +21,14 @@ Rust 全栈 · Godot 游戏 · 部署运维 · AI 工程
 | | | |
 |:---:|:---:|:---:|
 | <a href="https://github.com/lilyco-42/lilyco"><img src="https://raw.githubusercontent.com/lilyco-42/lilyco/main/docs/banner.svg" width="280" alt="lilyco"></a> | <a href="https://github.com/lilyco-42/rembg-ui"><img src="https://raw.githubusercontent.com/lilyco-42/rembg-ui/master/docs/banner.svg" width="280" alt="rembg-ui"></a> | <a href="https://github.com/lilyco-42/lyco_chat"><img src="https://raw.githubusercontent.com/lilyco-42/lyco_chat/main/docs/banner.svg" width="280" alt="lyco_chat"></a> |
-| **[lilyco](https://github.com/lilyco-42/lilyco)** ★6 — 一个 struct 派生 CLI/TUI/Web/MCP 四端 | **[rembg-ui](https://github.com/lilyco-42/rembg-ui)** ★6 — 本地 AI 抠图，图不出本机 | **[lyco_chat](https://github.com/lilyco-42/lyco_chat)** — 纯 Rust 微型 GPT，会诚实说「不会」 |
+| **[lilyco](https://github.com/lilyco-42/lilyco)** ★6 — 一个 struct 派生 CLI/TUI/Web/MCP 四端 | **[rembg-ui](https://github.com/lilyco-42/rembg-ui)** ★7 — 本地 AI 抠图，图不出本机 | **[lyco_chat](https://github.com/lilyco-42/lyco_chat)** — 纯 Rust 微型 GPT，会诚实说「不会」 |
 
 ## 🚀 网络与运维
 
 | | | |
 |:---:|:---:|:---:|
 | <a href="https://github.com/lilyco-42/ghboost"><img src="https://raw.githubusercontent.com/lilyco-42/ghboost/main/docs/banner.svg" width="280" alt="ghboost"></a> | <a href="https://github.com/lilyco-42/dsh-termux"><img src="https://raw.githubusercontent.com/lilyco-42/dsh-termux/main/docs/banner.svg" width="280" alt="dsh-termux"></a> | <a href="https://github.com/lilyco-42/radxa-monitor"><img src="https://raw.githubusercontent.com/lilyco-42/radxa-monitor/main/docs/banner.svg" width="280" alt="radxa-monitor"></a> |
-| **[ghboost](https://github.com/lilyco-42/ghboost)** ★2 — GitHub 加速 + 节点扫描测速注入 | **[dsh-termux](https://github.com/lilyco-42/dsh-termux)** ★10 — Termux 一键装 DSH（5 项运行时补丁） | **[radxa-monitor](https://github.com/lilyco-42/radxa-monitor)** — Radxa A7A 局域网监控 APK（mDNS + SSH） |
+| **[ghboost](https://github.com/lilyco-42/ghboost)** ★3 — GitHub 加速 + 节点扫描测速注入 | **[dsh-termux](https://github.com/lilyco-42/dsh-termux)** ★18 — Termux 一键装 DSH（5 项运行时补丁） | **[radxa-monitor](https://github.com/lilyco-42/radxa-monitor)** — Radxa A7A 局域网监控 APK（mDNS + SSH） |
 
 | | |
 |:---:|:---:|
@@ -58,8 +58,23 @@ Rust 全栈 · Godot 游戏 · 部署运维 · AI 工程
 
 | | |
 |:---:|:---:|
-| <a href="https://github.com/lilyco-42/lyco-skill"><img src="https://raw.githubusercontent.com/lilyco-42/lyco-skill/main/docs/banner.svg" width="280" alt="lyco-skill"></a> | <a href="https://lycobrain.top/game/turing/"><img src="https://lycobrain.top/ads/banners/turing-game.svg" width="280" alt="图灵测试游戏"></a> |
-| **[lyco-skill](https://github.com/lilyco-42/lyco-skill)** ★5 — Agent 预研先行 + OODA 闭环 | **[图灵测试游戏](https://lycobrain.top/game/turing/)** — 在线分辨人还是 AI |
+| <a href="https://github.com/lilyco-42/lyco-skill"><img src="https://raw.githubusercontent.com/lilyco-42/lyco-skill/main/docs/banner.svg" width="280" alt="lyco-skill"></a> | <a href="https://lycobrain.top/game/turing/"><img src="https://raw.githubusercontent.com/lilyco-42/lilyco-42/main/docs/ads/turing-game.svg" width="280" alt="图灵测试游戏"></a> |
+| **[lyco-skill](https://github.com/lilyco-42/lyco-skill)** ★9 — Agent 预研先行 + OODA 闭环 | **[图灵测试游戏](https://lycobrain.top/game/turing/)** — 在线分辨人还是 AI |
+
+## 🔬 研究 / 预研
+
+> 每个仓都是 **preflight 输出，不是实现** —— 先给出可审计的数字、写清做不到的边界，再决定要不要动手。
+
+| | | |
+|:---:|:---:|:---:|
+| <a href="https://github.com/lilyco-42/wasm-binary-formats"><img src="https://raw.githubusercontent.com/lilyco-42/lilyco-42/main/docs/research/wasm-binary-formats.svg" width="280" alt="wasm-binary-formats"></a> | <a href="https://github.com/lilyco-42/wasm-pixel-kernels"><img src="https://raw.githubusercontent.com/lilyco-42/lilyco-42/main/docs/research/wasm-pixel-kernels.svg" width="280" alt="wasm-pixel-kernels"></a> | <a href="https://github.com/lilyco-42/android-wasm-lab"><img src="https://raw.githubusercontent.com/lilyco-42/lilyco-42/main/docs/research/android-wasm-lab.svg" width="280" alt="android-wasm-lab"></a> |
+| **[wasm-binary-formats](https://github.com/lilyco-42/wasm-binary-formats)** — APK 解包 + 格式编目，先证明「≥200」这个数字站得住 | **[wasm-pixel-kernels](https://github.com/lilyco-42/wasm-pixel-kernels)** — 明说 Adobe 闭源核心不可能编译到 wasm，只做可引用目录 | **[android-wasm-lab](https://github.com/lilyco-42/android-wasm-lab)** — 不用真机也能验证：模拟器 + 内置 Chrome 实测 |
+| <a href="https://github.com/lilyco-42/lyco-router-eval"><img src="https://raw.githubusercontent.com/lilyco-42/lilyco-42/main/docs/research/lyco-router-eval.svg" width="280" alt="lyco-router-eval"></a> | <a href="https://github.com/lilyco-42/cimgui-notes"><img src="https://raw.githubusercontent.com/lilyco-42/lilyco-42/main/docs/research/cimgui-notes.svg" width="280" alt="cimgui-notes"></a> | <a href="https://github.com/lilyco-42/xiaomi-r3gv2-pppoe-1603"><img src="https://raw.githubusercontent.com/lilyco-42/lilyco-42/main/docs/research/xiaomi-r3gv2-pppoe-1603.svg" width="280" alt="xiaomi-r3gv2-pppoe-1603"></a> |
+| **[lyco-router-eval](https://github.com/lilyco-42/lyco-router-eval)** — 结论：0.6B 够了，但得配拒答 + 白名单 + 人工拍板 | **[cimgui-notes](https://github.com/lilyco-42/cimgui-notes)** — 逐行读源码整理的 Obsidian 双向链接知识图 | **[xiaomi-r3gv2-pppoe-1603](https://github.com/lilyco-42/xiaomi-r3gv2-pppoe-1603)** — 同一条线电脑能拨通、路由器不行 —— 对照实验找原因 |
+| <a href="https://github.com/lilyco-42/happy-sugar-life-live2d"><img src="https://raw.githubusercontent.com/lilyco-42/lilyco-42/main/docs/research/happy-sugar-life-live2d.svg" width="280" alt="happy-sugar-life-live2d"></a> | <a href="https://github.com/lilyco-42/awesome-radxa-a733"><img src="https://raw.githubusercontent.com/lilyco-42/lilyco-42/main/docs/research/awesome-radxa-a733.svg" width="280" alt="awesome-radxa-a733"></a> | <a href="https://github.com/lilyco-42/lystack"><img src="https://raw.githubusercontent.com/lilyco-42/lilyco-42/main/docs/research/lystack.svg" width="280" alt="lystack"></a> |
+| **[happy-sugar-life-live2d](https://github.com/lilyco-42/happy-sugar-life-live2d)** — 从立绘到骨骼动画的全流程 + 坑记录 | **[awesome-radxa-a733](https://github.com/lilyco-42/awesome-radxa-a733)** — A733 板端「什么真的能用」的实测索引 | **[lystack](https://github.com/lilyco-42/lystack)** — 含 AI 生成内容逐条核验表（标真 / 标落后一版） |
+| <a href="https://github.com/lilyco-42/lyco_agent"><img src="https://raw.githubusercontent.com/lilyco-42/lilyco-42/main/docs/research/lyco_agent.svg" width="280" alt="lyco_agent"></a> |
+| **[lyco_agent](https://github.com/lilyco-42/lyco_agent)** — 工具调用 + 诚实降级 + 运行时学习 |
 
 ---
 
