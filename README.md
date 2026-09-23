@@ -10,7 +10,7 @@
 
 Rust 全栈 · Godot 游戏 · 部署运维 · AI 工程
 
-[lycobrain.top](https://lycobrain.top) · [DSH 创意工坊](https://workshop.lain42.top) · 商务合作微信 `Lilyco42`
+[lain42.top](https://lain42.top) · [DSH 创意工坊](https://workshop.lain42.top) · 商务合作微信 `Lilyco42`
 
 </div>
 
@@ -28,7 +28,7 @@ Rust 全栈 · Godot 游戏 · 部署运维 · AI 工程
 | | | |
 |:---:|:---:|:---:|
 | <a href="https://github.com/lilyco-42/ghboost"><img src="https://raw.githubusercontent.com/lilyco-42/ghboost/HEAD/docs/banner.svg" width="280" alt="ghboost"></a> | <a href="https://github.com/lilyco-42/dsh-termux"><img src="https://raw.githubusercontent.com/lilyco-42/dsh-termux/HEAD/docs/banner.svg" width="280" alt="dsh-termux"></a> | <a href="https://github.com/lilyco-42/radxa-monitor"><img src="https://raw.githubusercontent.com/lilyco-42/radxa-monitor/HEAD/docs/banner.svg" width="280" alt="radxa-monitor"></a> |
-| **[ghboost](https://github.com/lilyco-42/ghboost)** ★3 — GitHub 加速 + 节点扫描测速注入 | **[dsh-termux](https://github.com/lilyco-42/dsh-termux)** ★18 — Termux 一键装 DSH（5 项运行时补丁） | **[radxa-monitor](https://github.com/lilyco-42/radxa-monitor)** — Radxa A7A 局域网监控 APK（mDNS + SSH） |
+| **[ghboost](https://github.com/lilyco-42/ghboost)** ★3 — GitHub 加速 + 节点扫描测速注入 | **[dsh-termux](https://github.com/lilyco-42/dsh-termux)** ★18 — Termux 一键装 DSH（7 项运行时补丁） | **[radxa-monitor](https://github.com/lilyco-42/radxa-monitor)** — Radxa A7A 局域网监控 APK（mDNS + SSH） |
 
 | | |
 |:---:|:---:|
@@ -58,8 +58,8 @@ Rust 全栈 · Godot 游戏 · 部署运维 · AI 工程
 
 | | |
 |:---:|:---:|
-| <a href="https://github.com/lilyco-42/lyco-skill"><img src="https://raw.githubusercontent.com/lilyco-42/lyco-skill/HEAD/docs/banner.svg" width="280" alt="lyco-skill"></a> | <a href="https://lycobrain.top/game/turing/"><img src="https://raw.githubusercontent.com/lilyco-42/lilyco-42/HEAD/docs/ads/turing-game.svg" width="280" alt="图灵测试游戏"></a> |
-| **[lyco-skill](https://github.com/lilyco-42/lyco-skill)** ★9 — Agent 预研先行 + OODA 闭环 | **[图灵测试游戏](https://lycobrain.top/game/turing/)** — 在线分辨人还是 AI |
+| <a href="https://github.com/lilyco-42/lyco-skill"><img src="https://raw.githubusercontent.com/lilyco-42/lyco-skill/HEAD/docs/banner.svg" width="280" alt="lyco-skill"></a> | <a href="https://lain42.top/game/turing/"><img src="https://raw.githubusercontent.com/lilyco-42/lilyco-42/HEAD/docs/ads/turing-game.svg" width="280" alt="图灵测试游戏"></a> |
+| **[lyco-skill](https://github.com/lilyco-42/lyco-skill)** ★9 — Agent 预研先行 + OODA 闭环 | **[图灵测试游戏](https://lain42.top/game/turing/)** — 在线分辨人还是 AI |
 
 ## 🔬 研究 / 预研
 
@@ -80,7 +80,7 @@ Rust 全栈 · Godot 游戏 · 部署运维 · AI 工程
 
 <div align="center">
 
-**云枢智创数码信息科技服务工作室** · [算力接入平台](https://lycobrain.top/compute/) · [GitHub 加速短链](https://lycobrain.top/g/) · [真实案例](https://lycobrain.top/cases.html)
+**云枢智创数码信息科技服务工作室** · [算力接入平台](https://lain42.top/compute/) · [GitHub 加速短链](https://lain42.top/g/) · [真实案例](https://lain42.top/cases.html)
 
 <img src="https://raw.githubusercontent.com/lilyco-42/lilyco-42/HEAD/docs/banner.svg" width="480" alt="dsh-workshop">
 
