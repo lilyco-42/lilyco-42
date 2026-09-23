@@ -40,7 +40,7 @@ Rust 全栈 · Godot 游戏 · 部署运维 · AI 工程
 | | | |
 |:---:|:---:|:---:|
 | <a href="https://github.com/lilyco-42/Lazy-UI"><img src="https://raw.githubusercontent.com/lilyco-42/Lazy-UI/HEAD/docs/banner.svg" width="280" alt="Lazy-UI"></a> | <a href="https://github.com/lilyco-42/webview-mini"><img src="https://raw.githubusercontent.com/lilyco-42/webview-mini/HEAD/docs/banner.svg" width="280" alt="webview-mini"></a> | <a href="https://github.com/lilyco-42/lyco-engine"><img src="https://raw.githubusercontent.com/lilyco-42/lyco-engine/HEAD/docs/banner.svg" width="280" alt="lyco-engine"></a> |
-| **[Lazy-UI](https://github.com/lilyco-42/Lazy-UI)** ★4 — Rust TUI 控件框架 | **[webview-mini](https://github.com/lilyco-42/webview-mini)** — 单头文件 WebView2（211 KB） | **[lyco-engine](https://github.com/lilyco-42/lyco-engine)** — yuzu 千恋万花 Web 播放器 + 脚手架 |
+| **[Lazy-UI](https://github.com/lilyco-42/Lazy-UI)** ★4 — Rust TUI 控件框架 | **[webview-mini](https://github.com/lilyco-42/webview-mini)** — 单头文件 WebView2（205 KB） | **[lyco-engine](https://github.com/lilyco-42/lyco-engine)** — yuzu 千恋万花 Web 播放器 + 脚手架 |
 
 | | | |
 |:---:|:---:|:---:|
