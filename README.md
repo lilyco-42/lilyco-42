@@ -30,10 +30,10 @@ Rust 全栈 · Godot 游戏 · 部署运维 · AI 工程
 | <a href="https://github.com/lilyco-42/ghboost"><img src="https://raw.githubusercontent.com/lilyco-42/ghboost/HEAD/docs/banner.svg" width="280" alt="ghboost"></a> | <a href="https://github.com/lilyco-42/dsh-termux"><img src="https://raw.githubusercontent.com/lilyco-42/dsh-termux/HEAD/docs/banner.svg" width="280" alt="dsh-termux"></a> | <a href="https://github.com/lilyco-42/radxa-monitor"><img src="https://raw.githubusercontent.com/lilyco-42/radxa-monitor/HEAD/docs/banner.svg" width="280" alt="radxa-monitor"></a> |
 | **[ghboost](https://github.com/lilyco-42/ghboost)** ★3 — GitHub 加速 + 节点扫描测速注入 | **[dsh-termux](https://github.com/lilyco-42/dsh-termux)** ★18 — Termux 一键装 DSH（7 项运行时补丁） | **[radxa-monitor](https://github.com/lilyco-42/radxa-monitor)** — Radxa A7A 局域网监控 APK（mDNS + SSH） |
 
-| | |
-|:---:|:---:|
-| <a href="https://github.com/lilyco-42/minecraft"><img src="https://raw.githubusercontent.com/lilyco-42/minecraft/HEAD/docs/banner.svg" width="280" alt="minecraft"></a> | <a href="https://github.com/lilyco-42/zombie-raid"><img src="https://raw.githubusercontent.com/lilyco-42/zombie-raid/HEAD/docs/banner.svg" width="280" alt="zombie-raid"></a> |
-| **[minecraft](https://github.com/lilyco-42/minecraft)** — MC Radxa 一键远程管理器 | **[zombie-raid](https://github.com/lilyco-42/zombie-raid)** — PVE 僵尸搜打撤（Lethal Company 风格） |
+| | | |
+|:---:|:---:|:---:|
+| <a href="https://github.com/lilyco-42/minecraft"><img src="https://raw.githubusercontent.com/lilyco-42/minecraft/HEAD/docs/banner.svg" width="280" alt="minecraft"></a> | <a href="https://github.com/lilyco-42/zombie-raid"><img src="https://raw.githubusercontent.com/lilyco-42/zombie-raid/HEAD/docs/banner.svg" width="280" alt="zombie-raid"></a> | <a href="https://github.com/lilyco-42/radxa-commander"><img src="https://raw.githubusercontent.com/lilyco-42/radxa-commander/HEAD/docs/banner.svg" width="280" alt="radxa-commander"></a> |
+| **[minecraft](https://github.com/lilyco-42/minecraft)** — MC Radxa 一键远程管理器 | **[zombie-raid](https://github.com/lilyco-42/zombie-raid)** — PVE 僵尸搜打撤（Lethal Company 风格） | **[radxa-commander](https://github.com/lilyco-42/radxa-commander)** — A7A 路由器手机管家 · WiFi / 设备 / 分流 · 板端 API + 免安装网页 |
 
 ## 🛠 开发者工具
 
@@ -46,6 +46,11 @@ Rust 全栈 · Godot 游戏 · 部署运维 · AI 工程
 |:---:|:---:|:---:|
 | <a href="https://github.com/lilyco-42/mainm"><img src="https://raw.githubusercontent.com/lilyco-42/mainm/HEAD/docs/banner.svg" width="280" alt="mainm"></a> | <a href="https://github.com/lilyco-42/rust-android-template"><img src="https://raw.githubusercontent.com/lilyco-42/rust-android-template/HEAD/docs/banner.svg" width="280" alt="rust-android-template"></a> | <a href="https://github.com/lilyco-42/fabric-mod-template"><img src="https://raw.githubusercontent.com/lilyco-42/fabric-mod-template/HEAD/docs/banner.svg" width="280" alt="fabric-mod-template"></a> |
 | **[mainm](https://github.com/lilyco-42/mainm)** — 一个命令从零产出成片 | **[rust-android-template](https://github.com/lilyco-42/rust-android-template)** — Rust+Kotlin JNI 模板 | **[fabric-mod-template](https://github.com/lilyco-42/fabric-mod-template)** — Fabric 1.21.4 模组模板 |
+
+| | | |
+|:---:|:---:|:---:|
+| <a href="https://github.com/lilyco-42/a7a-npu-cli"><img src="https://raw.githubusercontent.com/lilyco-42/a7a-npu-cli/HEAD/docs/banner.svg" width="280" alt="a7a-npu-cli"></a> | <a href="https://github.com/lilyco-42/radxa_utlra"><img src="https://raw.githubusercontent.com/lilyco-42/radxa_utlra/HEAD/docs/banner.svg" width="280" alt="radxa_utlra"></a> | <a href="https://github.com/lilyco-42/vp-pipeline"><img src="https://raw.githubusercontent.com/lilyco-42/vp-pipeline/HEAD/docs/banner.svg" width="280" alt="vp-pipeline"></a> |
+| **[a7a-npu-cli](https://github.com/lilyco-42/a7a-npu-cli)** — A733 / A7A NPU 统一 CLI，覆盖官方工具链 | **[radxa_utlra](https://github.com/lilyco-42/radxa_utlra)** — A7A 板端能力总集 · ve2 硬编 · NPU 内核移植 | **[vp-pipeline](https://github.com/lilyco-42/vp-pipeline)** — A7A 全自动短视频生产线 · 话题 → 成片 |
 
 ## 🎮 游戏与小工具
 
