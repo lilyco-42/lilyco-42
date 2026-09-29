@@ -28,7 +28,7 @@ Rust 全栈 · Godot 游戏 · 部署运维 · AI 工程
 | | | |
 |:---:|:---:|:---:|
 | <a href="https://github.com/lilyco-42/ghboost"><img src="https://raw.githubusercontent.com/lilyco-42/ghboost/HEAD/docs/banner.svg" width="280" alt="ghboost"></a> | <a href="https://github.com/lilyco-42/dsh-termux"><img src="https://raw.githubusercontent.com/lilyco-42/dsh-termux/HEAD/docs/banner.svg" width="280" alt="dsh-termux"></a> | <a href="https://github.com/lilyco-42/radxa-monitor"><img src="https://raw.githubusercontent.com/lilyco-42/radxa-monitor/HEAD/docs/banner.svg" width="280" alt="radxa-monitor"></a> |
-| **[ghboost](https://github.com/lilyco-42/ghboost)** ★3 — GitHub 加速 + 节点扫描测速注入 | **[dsh-termux](https://github.com/lilyco-42/dsh-termux)** ★17 — Termux 一键装 DSH（7 项运行时补丁） | **[radxa-monitor](https://github.com/lilyco-42/radxa-monitor)** — Radxa A7A 局域网监控 APK（mDNS + SSH） |
+| **[ghboost](https://github.com/lilyco-42/ghboost)** ★2 — GitHub 加速 + 节点扫描测速注入 | **[dsh-termux](https://github.com/lilyco-42/dsh-termux)** ★16 — Termux 一键装 DSH（7 项运行时补丁） | **[radxa-monitor](https://github.com/lilyco-42/radxa-monitor)** — Radxa A7A 局域网监控 APK（mDNS + SSH） |
 
 | | | |
 |:---:|:---:|:---:|
@@ -40,7 +40,7 @@ Rust 全栈 · Godot 游戏 · 部署运维 · AI 工程
 | | | |
 |:---:|:---:|:---:|
 | <a href="https://github.com/lilyco-42/Lazy-UI"><img src="https://raw.githubusercontent.com/lilyco-42/Lazy-UI/HEAD/docs/banner.svg" width="280" alt="Lazy-UI"></a> | <a href="https://github.com/lilyco-42/webview-mini"><img src="https://raw.githubusercontent.com/lilyco-42/webview-mini/HEAD/docs/banner.svg" width="280" alt="webview-mini"></a> | <a href="https://github.com/lilyco-42/lyco-engine"><img src="https://raw.githubusercontent.com/lilyco-42/lyco-engine/HEAD/docs/banner.svg" width="280" alt="lyco-engine"></a> |
-| **[Lazy-UI](https://github.com/lilyco-42/Lazy-UI)** ★4 — Rust TUI 控件框架 | **[webview-mini](https://github.com/lilyco-42/webview-mini)** — 单头文件 WebView2（205 KB） | **[lyco-engine](https://github.com/lilyco-42/lyco-engine)** — yuzu 千恋万花 Web 播放器 + 脚手架 |
+| **[Lazy-UI](https://github.com/lilyco-42/Lazy-UI)** ★3 — Rust TUI 控件框架 | **[webview-mini](https://github.com/lilyco-42/webview-mini)** — 单头文件 WebView2（205 KB） | **[lyco-engine](https://github.com/lilyco-42/lyco-engine)** — yuzu 千恋万花 Web 播放器 + 脚手架 |
 
 | | | |
 |:---:|:---:|:---:|
