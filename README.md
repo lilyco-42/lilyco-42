@@ -28,7 +28,7 @@ Rust 全栈 · Godot 游戏 · 部署运维 · AI 工程
 | | | |
 |:---:|:---:|:---:|
 | <a href="https://github.com/lilyco-42/ghboost"><img src="https://raw.githubusercontent.com/lilyco-42/ghboost/HEAD/docs/banner.svg" width="280" alt="ghboost"></a> | <a href="https://github.com/lilyco-42/dsh-termux"><img src="https://raw.githubusercontent.com/lilyco-42/dsh-termux/HEAD/docs/banner.svg" width="280" alt="dsh-termux"></a> | <a href="https://github.com/lilyco-42/radxa-monitor"><img src="https://raw.githubusercontent.com/lilyco-42/radxa-monitor/HEAD/docs/banner.svg" width="280" alt="radxa-monitor"></a> |
-| **[ghboost](https://github.com/lilyco-42/ghboost)** ★2 — GitHub 加速 + 节点扫描测速注入 | **[dsh-termux](https://github.com/lilyco-42/dsh-termux)** ★17 — Termux 一键装 DSH（7 项运行时补丁） | **[radxa-monitor](https://github.com/lilyco-42/radxa-monitor)** — Radxa A7A 局域网监控 APK（mDNS + SSH） |
+| **[ghboost](https://github.com/lilyco-42/ghboost)** ★2 — GitHub 加速 + 节点扫描测速注入 | **[dsh-termux](https://github.com/lilyco-42/dsh-termux)** ★18 — Termux 一键装 DSH（7 项运行时补丁） | **[radxa-monitor](https://github.com/lilyco-42/radxa-monitor)** — Radxa A7A 局域网监控 APK（mDNS + SSH） |
 
 | | | |
 |:---:|:---:|:---:|
