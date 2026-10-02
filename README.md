@@ -34,6 +34,8 @@ Rust 全栈 · Godot 游戏 · 部署运维 · AI 工程
 |:---:|:---:|:---:|
 | <a href="https://github.com/lilyco-42/minecraft"><img src="https://raw.githubusercontent.com/lilyco-42/minecraft/HEAD/docs/banner.svg" width="280" alt="minecraft"></a> | <a href="https://github.com/lilyco-42/zombie-raid"><img src="https://raw.githubusercontent.com/lilyco-42/zombie-raid/HEAD/docs/banner.svg" width="280" alt="zombie-raid"></a> | <a href="https://github.com/lilyco-42/radxa-commander"><img src="https://raw.githubusercontent.com/lilyco-42/radxa-commander/HEAD/docs/banner.svg" width="280" alt="radxa-commander"></a> |
 | **[minecraft](https://github.com/lilyco-42/minecraft)** — MC Radxa 一键远程管理器 | **[zombie-raid](https://github.com/lilyco-42/zombie-raid)** — PVE 僵尸搜打撤（Lethal Company 风格） | **[radxa-commander](https://github.com/lilyco-42/radxa-commander)** — A7A 路由器手机管家 · WiFi / 设备 / 分流 · 板端 API + 免安装网页 |
+| <a href="https://github.com/lilyco-42/lyco-router"><img src="https://raw.githubusercontent.com/lilyco-42/lyco-router/HEAD/docs/banner.svg" width="280" alt="lyco-router"></a> | | |
+| **[lyco-router](https://github.com/lilyco-42/lyco-router)** — 按需服务路由器 · 连上就用 · 平时零占用 · 有人连才拉起后端 | | |
 
 ## 🛠 开发者工具
 
