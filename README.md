@@ -21,14 +21,14 @@ Rust 全栈 · Godot 游戏 · 部署运维 · AI 工程
 | | | |
 |:---:|:---:|:---:|
 | <a href="https://github.com/lilyco-42/lilyco"><img src="https://raw.githubusercontent.com/lilyco-42/lilyco/HEAD/docs/banner.svg" width="280" alt="lilyco"></a> | <a href="https://github.com/lilyco-42/rembg-ui"><img src="https://raw.githubusercontent.com/lilyco-42/rembg-ui/HEAD/docs/banner.svg" width="280" alt="rembg-ui"></a> | <a href="https://github.com/lilyco-42/lyco_chat"><img src="https://raw.githubusercontent.com/lilyco-42/lyco_chat/HEAD/docs/banner.svg" width="280" alt="lyco_chat"></a> |
-| **[lilyco](https://github.com/lilyco-42/lilyco)** ★6 — 一个 struct 派生 CLI/TUI/Web/MCP 四端 | **[rembg-ui](https://github.com/lilyco-42/rembg-ui)** ★7 — 本地 AI 抠图，图不出本机 | **[lyco_chat](https://github.com/lilyco-42/lyco_chat)** — 纯 Rust 微型 GPT，会诚实说「不会」 |
+| **[lilyco](https://github.com/lilyco-42/lilyco)** ★6 — 一个 struct 派生 CLI/TUI/Web/MCP 四端 | **[rembg-ui](https://github.com/lilyco-42/rembg-ui)** ★8 — 本地 AI 抠图，图不出本机 | **[lyco_chat](https://github.com/lilyco-42/lyco_chat)** — 纯 Rust 微型 GPT，会诚实说「不会」 |
 
 ## 🚀 网络与运维
 
 | | | |
 |:---:|:---:|:---:|
 | <a href="https://github.com/lilyco-42/ghboost"><img src="https://raw.githubusercontent.com/lilyco-42/ghboost/HEAD/docs/banner.svg" width="280" alt="ghboost"></a> | <a href="https://github.com/lilyco-42/dsh-termux"><img src="https://raw.githubusercontent.com/lilyco-42/dsh-termux/HEAD/docs/banner.svg" width="280" alt="dsh-termux"></a> | <a href="https://github.com/lilyco-42/radxa-monitor"><img src="https://raw.githubusercontent.com/lilyco-42/radxa-monitor/HEAD/docs/banner.svg" width="280" alt="radxa-monitor"></a> |
-| **[ghboost](https://github.com/lilyco-42/ghboost)** ★2 — GitHub 加速 + 节点扫描测速注入 | **[dsh-termux](https://github.com/lilyco-42/dsh-termux)** ★18 — Termux 一键装 DSH（7 项运行时补丁） | **[radxa-monitor](https://github.com/lilyco-42/radxa-monitor)** — Radxa A7A 局域网监控 APK（mDNS + SSH） |
+| **[ghboost](https://github.com/lilyco-42/ghboost)** ★2 — GitHub 加速 + 节点扫描测速注入 | **[dsh-termux](https://github.com/lilyco-42/dsh-termux)** ★20 — Termux 一键装 DSH（7 项运行时补丁） | **[radxa-monitor](https://github.com/lilyco-42/radxa-monitor)** — Radxa A7A 局域网监控 APK（mDNS + SSH） |
 
 | | | |
 |:---:|:---:|:---:|
