@@ -66,7 +66,7 @@ Rust 全栈 · Godot 游戏 · 部署运维 · AI 工程
 | | |
 |:---:|:---:|
 | <a href="https://github.com/lilyco-42/lyco-skill"><img src="https://raw.githubusercontent.com/lilyco-42/lyco-skill/HEAD/docs/banner.svg" width="280" alt="lyco-skill"></a> | <a href="https://lain42.top/game/turing/"><img src="https://raw.githubusercontent.com/lilyco-42/lilyco-42/HEAD/docs/ads/turing-game.svg" width="280" alt="图灵测试游戏"></a> |
-| **[lyco-skill](https://github.com/lilyco-42/lyco-skill)** ★9 — Agent 预研先行 + OODA 闭环 | **[图灵测试游戏](https://lain42.top/game/turing/)** — 在线分辨人还是 AI |
+| **[lyco-skill](https://github.com/lilyco-42/lyco-skill)** ★11 — Agent 预研先行 + OODA 闭环 | **[图灵测试游戏](https://lain42.top/game/turing/)** — 在线分辨人还是 AI |
 
 ## 🔬 研究 / 预研
 
