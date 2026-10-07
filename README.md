@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lilyco-42/lilyco-42/HEAD/docs/logo.png" alt="lilyco-42" width="200">
-</p>
-
 <div align="center">
 
 # 云枢智创 · lilyco-42
