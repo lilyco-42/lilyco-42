@@ -17,7 +17,7 @@ Rust 全栈 · Godot 游戏 · 部署运维 · AI 工程
 | | | |
 |:---:|:---:|:---:|
 | <a href="https://github.com/lilyco-42/lilyco"><img src="https://raw.githubusercontent.com/lilyco-42/lilyco/HEAD/docs/banner.svg" width="280" alt="lilyco"></a> | <a href="https://github.com/lilyco-42/rembg-ui"><img src="https://raw.githubusercontent.com/lilyco-42/rembg-ui/HEAD/docs/banner.svg" width="280" alt="rembg-ui"></a> | <a href="https://github.com/lilyco-42/lyco_chat"><img src="https://raw.githubusercontent.com/lilyco-42/lyco_chat/HEAD/docs/banner.svg" width="280" alt="lyco_chat"></a> |
-| **[lilyco](https://github.com/lilyco-42/lilyco)** ★6 — 一个 struct 派生 CLI/TUI/Web/MCP 四端 | **[rembg-ui](https://github.com/lilyco-42/rembg-ui)** ★8 — 本地 AI 抠图，图不出本机 | **[lyco_chat](https://github.com/lilyco-42/lyco_chat)** — 纯 Rust 微型 GPT，会诚实说「不会」 |
+| **[lilyco](https://github.com/lilyco-42/lilyco)** ★6 — 一个 struct 派生 CLI/TUI/Web/MCP 四端 | **[rembg-ui](https://github.com/lilyco-42/rembg-ui)** ★9 — 本地 AI 抠图，图不出本机 | **[lyco_chat](https://github.com/lilyco-42/lyco_chat)** — 纯 Rust 微型 GPT，会诚实说「不会」 |
 
 ## 🚀 网络与运维
 
