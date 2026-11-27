@@ -17,7 +17,7 @@ Rust 全栈 · Godot 游戏 · 部署运维 · AI 工程
 | | | |
 |:---:|:---:|:---:|
 | <a href="https://github.com/lilyco-42/lilyco"><img src="https://raw.githubusercontent.com/lilyco-42/lilyco/HEAD/docs/banner.svg" width="280" alt="lilyco"></a> | <a href="https://github.com/lilyco-42/rembg-ui"><img src="https://raw.githubusercontent.com/lilyco-42/rembg-ui/HEAD/docs/banner.svg" width="280" alt="rembg-ui"></a> | <a href="https://github.com/lilyco-42/lyco_chat"><img src="https://raw.githubusercontent.com/lilyco-42/lyco_chat/HEAD/docs/banner.svg" width="280" alt="lyco_chat"></a> |
-| **[lilyco](https://github.com/lilyco-42/lilyco)** ★6 — 一个 struct 派生 CLI/TUI/Web/MCP 四端 | **[rembg-ui](https://github.com/lilyco-42/rembg-ui)** ★10 — 本地 AI 抠图，图不出本机 | **[lyco_chat](https://github.com/lilyco-42/lyco_chat)** — 纯 Rust 微型 GPT，会诚实说「不会」 |
+| **[lilyco](https://github.com/lilyco-42/lilyco)** ★7 — 一个 struct 派生 CLI/TUI/Web/MCP 四端 | **[rembg-ui](https://github.com/lilyco-42/rembg-ui)** ★10 — 本地 AI 抠图，图不出本机 | **[lyco_chat](https://github.com/lilyco-42/lyco_chat)** — 纯 Rust 微型 GPT，会诚实说「不会」 |
 
 ## 🚀 网络与运维
 
@@ -62,7 +62,7 @@ Rust 全栈 · Godot 游戏 · 部署运维 · AI 工程
 | | |
 |:---:|:---:|
 | <a href="https://github.com/lilyco-42/lyco-skill"><img src="https://raw.githubusercontent.com/lilyco-42/lyco-skill/HEAD/docs/banner.svg" width="280" alt="lyco-skill"></a> | <a href="https://lain42.top/game/turing/"><img src="https://raw.githubusercontent.com/lilyco-42/lilyco-42/HEAD/docs/ads/turing-game.svg" width="280" alt="图灵测试游戏"></a> |
-| **[lyco-skill](https://github.com/lilyco-42/lyco-skill)** ★12 — Agent 预研先行 + OODA 闭环 | **[图灵测试游戏](https://lain42.top/game/turing/)** — 在线分辨人还是 AI |
+| **[lyco-skill](https://github.com/lilyco-42/lyco-skill)** ★13 — Agent 预研先行 + OODA 闭环 | **[图灵测试游戏](https://lain42.top/game/turing/)** — 在线分辨人还是 AI |
 
 ## 🔬 研究 / 预研
 
